@@ -1,4 +1,5 @@
 # Brainux WHACH-A-MOLE for PW-G5200
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/b06a0020-3c9d-4112-9888-38da731fa024" />
 
 ## 概要
 

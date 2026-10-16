@@ -1,4 +1,4 @@
-# Brainux もぐらたたきゲーム(WHACH-A-MOLE) for PW-G5200
+# Brainux WHACH-A-MOLE for PW-G5200
 
 ## 概要
 
